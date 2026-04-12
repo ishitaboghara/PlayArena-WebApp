@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coaching_data>
+    <sport name="Cricket">
+        <program id="c1">
+            <title>Batting Fundamentals</title>
+            <duration>4 Weeks</duration>
+            <curriculum>Stance, Grip, Forward Defense, Drive shots.</curriculum>
+        </program>
+        <program id="c2">
+            <title>Bowling Accuracy</title>
+            <duration>6 Weeks</duration>
+            <curriculum>Run-up, Release, Line and Length, Swing basics.</curriculum>
+        </program>
+    </sport>
+    <sport name="Football">
+        <program id="f1">
+            <title>Ball Control</title>
+            <duration>4 Weeks</duration>
+            <curriculum>Dribbling, First touch, Passing accuracy.</curriculum>
+        </program>
+        <program id="f2">
+            <title>Tactical Awareness</title>
+            <duration>6 Weeks</duration>
+            <curriculum>Positioning, Off-the-ball movement, Pressing.</curriculum>
+        </program>
+    </sport>
+    <sport name="Badminton">
+        <program id="b1">
+            <title>Smash Masterclass</title>
+            <duration>4 Weeks</duration>
+            <curriculum>Power generation, Jump smash, Timing.</curriculum>
+        </program>
+    </sport>
+</coaching_data>
