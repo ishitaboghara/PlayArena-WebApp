@@ -1,4 +1,5 @@
 # PlayArena – Sports Club Management System
+Academic Full-Stack Web Development Project
 
 PlayArena is a web application developed for managing sports ground bookings and coaching sessions. The system allows users to explore sports facilities, book grounds, enroll in coaching sessions, and manage their bookings through a simple dashboard.
 
